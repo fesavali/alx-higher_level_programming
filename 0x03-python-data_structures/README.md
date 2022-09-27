@@ -20,7 +20,6 @@ All slice operations return a new list containing the requested elements. This m
 [1, 4, 9, 16, 25]
 Lists also support operations like concatenation:
 
->>>
 >>> squares + [36, 49, 64, 81, 100]
 [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 Unlike strings, which are immutable, lists are a mutable type, i.e. it is possible to change their content:
