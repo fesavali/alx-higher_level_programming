@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # 6-square.py
 
-"""Define a class Square."""
+"""Define class Square."""
 
 
 class Square:
